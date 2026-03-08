@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "mac": "00:1A:79:AA:BB:CC",
+      "password": "1234",
+      "m3u": "https://example.com/user1.m3u"
+    }
+  ]
 }
+
